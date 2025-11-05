@@ -20,7 +20,7 @@ Install ``pytest``
 .. code-block:: bash
 
     $ pytest --version
-    pytest 8.4.2
+    pytest 8.5.0.dev291+gadb3658f0.d20251105
 
 .. _`simpletest`:
 
